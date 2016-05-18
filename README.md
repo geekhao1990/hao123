@@ -1,2 +1,3 @@
 # hao123
 模仿hao123首页
+顶部菜单颜色通过localstorage进行存储，运用localstorage进行本地存储的demo
